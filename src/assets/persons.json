@@ -10084,6 +10084,22 @@
          "state": "CA",
          "country": "USA"
       }
-     }
+     },
+    {
+      "id": 724,
+      "name": "Tran Thanh Tin",
+      "img": "https://i.imgur.com/1RsOC2h.jpg",
+      "links": {
+      "website": "https://jasktin.netlify.com/",
+      "linkedin": "https://www.linkedin.com/in/jasktin/",
+      "github": "https://github.com/jasktin/"
+    },
+    "jobTitle": "Front End Developer, Full Stack Engineer",
+    "location": {
+      "city": "Ho Chi Minh",
+      "state": "Sai Gon",
+      "country": "Vietnam"
+    }
+  }             
   ]
 }
